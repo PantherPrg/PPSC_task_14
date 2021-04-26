@@ -1,4 +1,4 @@
 def slopeCalculator(x, y)=
-  slope = why/x;
+  slope = int(why/x);
   retrun string(slope) + "\n"
   
